@@ -391,7 +391,8 @@ i {
     letter-spacing: 0.25em;
     font-size: 20px;
 }
-.links a{
+.links a,
+.links2 a{
     color:#1C2349;
     font-family:'Plafair Display', cursive ;
     font-size: 20px;
